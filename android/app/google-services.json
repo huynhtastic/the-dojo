@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14354313757",
+    "firebase_url": "https://the-dojo-pp7509.firebaseio.com",
+    "project_id": "the-dojo-pp7509",
+    "storage_bucket": "the-dojo-pp7509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14354313757:android:926f047eddf4d4f2c34cf4",
+        "android_client_info": {
+          "package_name": "com.huynhtastic.the_dojo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14354313757-ds4ej552vlp0o73dk2vrr7aj83m1cv76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCRIhwj54qKdFozZAboAmbhKFtrQZX5Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14354313757-ds4ej552vlp0o73dk2vrr7aj83m1cv76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
